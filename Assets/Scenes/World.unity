@@ -232,7 +232,7 @@ MonoBehaviour:
   octaves: 5
   persistance: 0.506
   lacunarity: 2
-  seed: 0
+  seed: -2
   offset: {x: -5.12, y: 0}
   autoUpdate: 1
   regions:
